@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **PaySmart UPI App**
+
 - 🌱 Learning **Flutter, Firebase & AI Tools**
 - 💻 Interested in **Web Development & Mobile Apps**
 - ⚡ Goal: Build powerful digital products and startups
@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Connect With Me
-📧 Email: **ishaanshahanjar38@gmail.com**
+📧 Email: **shah.ishaan05@gmail.com**
 
 ---
 
