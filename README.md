@@ -26,7 +26,7 @@
 - 🚀 Founder of **NextGen Webworks**
 - 🌱 Currently learning **Advanced Web Development**
 - ⚡ Love creating **startup ideas**
-- 📫 Email: **ishaanshahanjar38@gmail.com**
+- 📫 Email: **shah.ishaan05@gmail.com**
 
 ---
 
@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/Website-NextGenWebworks-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="mailto:ishaanshahanjar38@gmail.com">
+<a href="mailto:shah.ishaan05@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -89,8 +89,4 @@
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories!
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/shahishaan05/shahishaan05/output/github-contribution-grid-snake.svg" />
-</p>
