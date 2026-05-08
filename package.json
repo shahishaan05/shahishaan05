@@ -1,0 +1,19 @@
+{
+  "name": "india-transport-mobile-app",
+  "version": "1.0.0",
+  "description": "Mobile-first transport company app prototype for India-wide booking, rates, truck availability, and live tracking.",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [
+    "transport",
+    "logistics",
+    "mobile-app",
+    "live-tracking",
+    "india"
+  ],
+  "author": "NextGen Webworks",
+  "license": "MIT"
+}
